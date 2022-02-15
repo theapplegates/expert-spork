@@ -20,6 +20,8 @@ This example uses the `twitter_simple` shortcode to output a Tweet. It requires 
 
 {{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
 
+{{< tweet user="DesignReviewed" id="1085870671291310081" >}}
+
 Alternatively, the `tweet` shortcode can be used to embed a fully marked up Twitter card.
 
 ## Gist
