@@ -7,19 +7,7 @@
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg border-neutral-200 top-20 bg-neutral dark:bg-neutral-800 dark:border-neutral-700"
   >
-    <header
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-    <script type="text/javascript">
-      algoliasearchNetlify({
-        appId: 'KJAFZM9NHX',
-        apiKey: '09e7a4d56979f227b9286567bfbd37e9',
-        siteId: 'f867d0d5-e553-4bb8-930f-6af31410bf69',
-        branch: 'main',
-        selector: 'div#search',
-      });
-    </script>
-     class="relative z-10 flex items-center justify-between flex-none px-2">
+    <header class="relative z-10 flex items-center justify-between flex-none px-2">
       <form class="flex items-center flex-auto min-w-0">
         <div class="flex items-center justify-center w-8 h-8 text-neutral-400">
           {{ partial "icon.html" "search" }}
