@@ -71,6 +71,9 @@ Push the config file to GitHub and the action should automatically run. It may f
 
 {{< screenshot src="github-pages-source.jpg" alt="Screen capture of GitHub Pages source" >}}
 
+{{< screenshot src="coon.jpg" alt="A coon" >}}
+
+
 Once the settings are configured, re-run the action and the site should build and deploy correctly. You can consult the actions log to check everything deployed successfully.
 
 ## Netlify
