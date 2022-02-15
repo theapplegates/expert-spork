@@ -20,6 +20,9 @@ A light angel
 
 {{< cld src="Dad-kevin-meApril-10-2010.jpg" alt="" caption="Father and sons" >}}
 
+![Father and sons](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Dad-kevin-meApril-10-2010.jpg)
+
+
 The full list of built-in icons and their corresponding names can referenced below.
 
 | Icon name            | Preview                           |
