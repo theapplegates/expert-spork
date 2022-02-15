@@ -11,6 +11,15 @@ Congo has built-in support for a number of [FontAwesome 5](https://fontawesome.c
 
 Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the `assets/icons/` directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme.
 
+A thin angel
+<i class="fa-thin fa-angel"></i>
+
+A light angel
+
+<i class="fa-light fa-angel"></i>
+
+
+
 The full list of built-in icons and their corresponding names can referenced below.
 
 | Icon name            | Preview                           |
