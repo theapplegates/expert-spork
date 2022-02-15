@@ -2,6 +2,8 @@ function switchHomeLayout() {
   const pageDiv = document.getElementById("page");
   const profileDiv = document.getElementById("profile");
   const layoutCode = document.querySelectorAll("code[id=layout]");
+  const cl = cloudinary.Cloudinary.new({ cloud_name: "paulportfolio" });
+  cl.responsive();
   if (pageDiv.style.display === "none") {
     pageDiv.style.display = "block";
     profileDiv.style.display = "none";
