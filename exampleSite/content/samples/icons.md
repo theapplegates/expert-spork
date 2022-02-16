@@ -25,7 +25,8 @@ A light angel
 ![Father and sons](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Dad-kevin-meApril-10-2010.jpg)
 
 
-<div class="mx-auto w-full shadow-lg">![cup](develop-preview-ship-point5.jpg)</div>
+<div class="mx-auto w-full shadow-lg">![Cup](develop-preview-ship-point5.jpg "Image caption")</div>
+
 
 The full list of built-in icons and their corresponding names can referenced below.
 
