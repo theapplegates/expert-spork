@@ -28,6 +28,9 @@ A light angel
 <div class="mx-auto w-full shadow-lg">![Cup](develop-preview-ship-point5.jpg "Image caption")</div>
 
 
+![Cup](develop-preview-ship-point5.jpg "Image caption")
+
+
 The full list of built-in icons and their corresponding names can referenced below.
 
 | Icon name            | Preview                           |
