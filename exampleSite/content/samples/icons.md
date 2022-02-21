@@ -18,7 +18,6 @@ A light angel
 
 <i class="fa-light fa-angel"></i>
 
-{{< cld src="Dad-kevin-meApril-10-2010.jpg" alt="" caption="Father and sons" >}}
 
 
 
