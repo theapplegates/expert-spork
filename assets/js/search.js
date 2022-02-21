@@ -1,6 +1,4 @@
 var fuse;
-var showButton = document.getElementById("search-button");
-var hideButton = document.getElementById("close-search-button");
 var wrapper = document.getElementById("search-wrapper");
 var modal = document.getElementById("search-modal");
 var input = document.getElementById("search-query");
