@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "algolia": "atomic-algolia",
+    "index": "hugo-lunr -i \"exampleSite/content/subdir/**\" -o exampleSite/public/my-index.json",
     "preinstall": "rimraf assets/vendor",
     "postinstall": "vendor-copy",
     "assets": "rimraf assets/vendor && vendor-copy",
@@ -73,6 +74,7 @@
     }
   ],
   "dependencies": {
-    "atomic-algolia": "^0.3.19"
+    "atomic-algolia": "^0.3.19",
+    "hugo-lunr": "^0.0.4"
   }
 }
