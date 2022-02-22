@@ -11,6 +11,9 @@ tags: ["installation", "docs"]
 This section assumes you have already [installed the Congo theme]({{< ref "docs/installation" >}}).
 {{< /alert >}}
 
+
+![Dad and sons](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Dad-kevin-meApril-10-2010.jpg)
+
 The config files that ship with Congo contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.
 
 ## Basic configuration
@@ -162,3 +165,6 @@ Both menus are completely optional and can be commented out if not required. Use
 ## Detailed configuration
 
 The steps above are the bare minimum configuration. If you now run `hugo server` you will be presented with a blank Congo website. Detailed configuration is covered in the [Configuration]({{< ref "configuration" >}}) section.
+
+
+![Signature](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Signature-Paul-Applegate-maybe-last.png)
