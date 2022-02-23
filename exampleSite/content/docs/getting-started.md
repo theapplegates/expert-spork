@@ -164,6 +164,8 @@ Both menus are completely optional and can be commented out if not required. Use
 
 ## Detailed configuration
 
+![A mug](develop-preview-ship-point5.jpg)
+
 The steps above are the bare minimum configuration. If you now run `hugo server` you will be presented with a blank Congo website. Detailed configuration is covered in the [Configuration]({{< ref "configuration" >}}) section.
 
 
