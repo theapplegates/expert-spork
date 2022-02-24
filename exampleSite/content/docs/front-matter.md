@@ -7,6 +7,17 @@ slug: "front-matter"
 tags: ["front matter", "config", "docs"]
 ---
 
+Below is a test of underline decoration of Tailwindcss v3.0
+<div>
+  <p>
+	I’m Derek, an astro-engineer based in Tattooine. I like to build X-Wings at
+	<a class="underline decoration-sky-500/30">My Company, Inc</a>.
+	Outside of work, I like to <a class="underline decoration-pink-500/30">watch
+	pod-racing</a> and have <a class="underline decoration-indigo-500/30">light-saber</a> fights.
+  </p>
+</div>
+
+
 In addition to the [default Hugo front matter parameters](https://gohugo.io/content-management/front-matter/#front-matter-variables), Congo adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.
 
 Front matter parameter default values are inherited from the theme's [base configuration]({{< ref "configuration" >}}), so you only need to specify these parameters in your front matter when you want to override the default.
