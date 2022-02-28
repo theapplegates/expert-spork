@@ -95,6 +95,7 @@ module.exports = {
             "--tw-prose-invert-td-borders": theme("colors.neutral.700"),
             a: {
               textDecoration: "underline",
+              textDecoration: "decoration-sky-500",
               textDecorationColor: theme("colors.primary.300"),
               fontWeight: "500",
               "&:hover": {
