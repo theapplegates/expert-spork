@@ -4,6 +4,20 @@ date: 2019-03-11
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: ["markdown", "css", "html", "sample"]
 ---
+testing...ignore...
+<div>
+    <p>
+        Hi. 
+        I love to build amazing websites keeping 
+        <!-- Utilties used: underline, decoration-sky-500/30 -->
+        <a class="underline decoration-sky-500/30">performance and security</a> in mind. 
+        <!-- Utilties used: underline, decoration-pink-500/30 -->
+        Outside of work, I love to <a class="underline decoration-pink-500/30">watch Nextflix
+        <!-- Utilties used: underline, decoration-indigo-500/30 --> 
+        </a> and play <a class="underline decoration-indigo-500/30">outdoor games</a> with my friends.
+    </p>
+</div>
+
 
 This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.
 
